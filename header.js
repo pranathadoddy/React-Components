@@ -32,4 +32,4 @@ const style={
 }
 
 
-export default Header;
+export {Header};
